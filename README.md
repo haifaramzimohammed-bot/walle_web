@@ -9,15 +9,15 @@ A PHP-based web application for an online wall art store, featuring a custom **D
 
 | 1. Login (تسجيل الدخول) | 2. Home (الرئيسية) |
 | :---: | :---: |
-| <img src="imagee/7.png" width="380"/> | <img src="1.png" width="380"/> |
+| <img src="imagee/7.png" width="380"/> | <img src="imagee/1.png" width="380"/> |
 
 | 3. Artworks/Gallery (اللوحات) | 4. About Us (من نحن) |
 | :---: | :---: |
-| <img src="2.png" width="380"/> | <img src="4.png" width="380"/> |
+| <img src="imagee/2.png" width="380"/> | <img src="imagee/4.png" width="380"/> |
 
 | 5. Order/Cart (الطلب والسلة) | 6. Admin Panel (لوحة التحكم) |
 | :---: | :---: |
-| <img src="3.png" width="380"/> | <img src="6.png" width="380"/> |
+| <img src="imagee/3.png" width="380"/> | <img src="imagee/6.png" width="380"/> |
 
 </div>
 
